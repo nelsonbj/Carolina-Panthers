@@ -1,0 +1,27 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2576
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c100000\c100000;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww21720\viewh7200\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs28 \cf0 \cb2 \expnd0\expndtw0\kerning0
+,,,,,,,,Score,Score,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Passing,Rushing,Rushing,Rushing,Rushing,Scoring,Scoring,Scoring,Scoring,Punting,Punting,Downs,Downs,Downs,Downs,\
+Week,Day,Date,,,OT,,Opp,Tm,Opp,Cmp,Att,Yds,TD,Int,Sk,Yds,Y/A,NY/A,Cmp%,Rate,Att,Yds,Y/A,TD,FGM,FGA,XPM,XPA,Pnt,Yds,3DConv,3DAtt,4DConv,4DAtt,ToP\
+1,Sun,September 9,boxscore,W,,@,St. Louis Rams,27,13,18,27,199,3,0,0,0,7.4,7.4,66.7,125.4,38,186,4.9,0,2,3,3,3,3,158,4,12,0,0,34:07\
+2,Sun,September 16,boxscore,L,,,Houston Texans,21,34,27,41,287,3,1,3,29,7.7,6.5,65.9,100.4,18,66,3.7,0,0,0,3,3,6,246,7,13,0,0,25:12\
+3,Sun,September 23,boxscore,W,,@,Atlanta Falcons,27,20,13,22,138,2,0,3,27,7.5,5.5,59.1,107.8,36,175,4.9,1,2,2,3,3,4,179,3,10,0,0,30:47\
+4,Sun,September 30,boxscore,L,,,Tampa Bay Buccaneers,7,20,19,41,137,1,1,3,18,3.8,3.1,46.3,52.6,23,99,4.3,0,0,0,1,1,8,371,6,18,1,2,25:20\
+5,Sun,October 7,boxscore,W,,@,New Orleans Saints,16,13,11,19,155,1,1,1,7,8.5,7.8,57.9,79.9,28,88,3.1,0,3,3,1,1,4,199,5,11,0,0,24:47\
+6,Sun,October 14,boxscore,W,,@,Arizona Cardinals,25,10,20,33,193,1,0,2,13,6.2,5.5,60.6,87.1,30,181,6.0,1,4,5,1,1,7,268,6,18,0,0,31:07\
+8,Sun,October 28,boxscore,L,,,Indianapolis Colts,7,31,28,45,185,0,1,0,0,4.1,4.1,62.2,61.8,33,108,3.3,1,0,0,1,1,6,276,10,21,2,2,36:05\
+9,Sun,November 4,boxscore,L,,@,Tennessee Titans,7,20,17,32,113,1,2,7,30,4.5,2.9,53.1,45.4,22,78,3.5,0,0,1,1,1,9,364,4,16,0,0,26:58\
+10,Sun,November 11,boxscore,L,,,Atlanta Falcons,13,20,13,29,145,0,1,2,8,5.3,4.7,44.8,45.9,28,90,3.2,0,2,2,1,1,9,386,3,16,0,1,28:20\
+11,Sun,November 18,boxscore,L,,@,Green Bay Packers,17,31,19,37,251,2,2,2,7,7.0,6.4,51.4,68.6,29,131,4.5,0,1,1,2,2,5,188,5,14,1,2,28:49\
+12,Sun,November 25,boxscore,L,,,New Orleans Saints,6,31,18,36,152,0,3,1,9,4.5,4.1,50.0,26.6,18,43,2.4,0,2,2,0,0,4,173,3,13,0,2,20:37\
+13,Sun,December 2,boxscore,W,,,San Francisco 49ers,31,14,17,26,157,2,2,2,12,6.5,5.6,65.4,75.3,44,166,3.8,1,1,1,4,4,7,311,9,18,0,0,38:22\
+14,Sun,December 9,boxscore,L,,@,Jacksonville Jaguars,6,37,16,38,99,0,1,1,6,2.8,2.5,42.1,38.7,15,50,3.3,0,2,2,0,0,5,242,2,12,1,3,21:02\
+15,Sun,December 16,boxscore,W,,,Seattle Seahawks,13,10,19,27,208,0,0,0,0,7.7,7.7,70.4,92.8,38,114,3.0,1,2,3,1,1,5,235,9,18,0,1,35:22\
+16,Sat,December 22,boxscore,L,,,Dallas Cowboys,13,20,15,28,147,1,1,5,35,6.5,4.5,53.6,65.6,14,69,4.9,0,2,2,1,1,6,258,2,11,1,1,21:00\
+17,Sun,December 30,boxscore,W,,@,Tampa Bay Buccaneers,31,23,15,24,169,2,1,1,5,7.3,6.8,62.5,93.9,37,180,4.9,2,1,1,4,4,4,184,7,14,0,0,31:50}
